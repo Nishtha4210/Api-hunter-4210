@@ -14,7 +14,7 @@ API-Hunter is a feature-rich React + Vite application that helps users search, f
 sh
 Copy
 Edit
-git clone https://github.com/CODERKABU/api-hunter.git
+git clone https://github.com/Nishtha4210/Api-hunter-4210.git
 cd api-hunter
 2️⃣ Install dependencies
 
